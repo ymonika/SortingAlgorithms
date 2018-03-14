@@ -1,0 +1,16 @@
+group 'sortingalgrithms'
+
+apply plugin: 'java'
+apply plugin: 'groovy'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories{
+    mavenCentral()
+}
+
+jar {
+    baseName = 'sortingalgrithms'
+    version = '0.1.0'
+}
