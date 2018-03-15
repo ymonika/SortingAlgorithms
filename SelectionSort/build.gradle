@@ -1,4 +1,4 @@
-group 'InsertionSort'
+group 'SelectionSort'
 
 apply plugin: 'java'
 

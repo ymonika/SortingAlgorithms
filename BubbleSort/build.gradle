@@ -1,4 +1,4 @@
-group 'InsertionSort'
+group 'BubbleSort'
 
 apply plugin: 'java'
 

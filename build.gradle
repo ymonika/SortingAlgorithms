@@ -1,16 +1,17 @@
-group 'sortingalgrithms'
+group 'sortingalgorithms'
 
-apply plugin: 'java'
 apply plugin: 'groovy'
+apply plugin: 'java'
 apply plugin: 'idea'
 
 sourceCompatibility = 1.8
 
-repositories{
+repositories {
     mavenCentral()
 }
 
+
 jar {
-    baseName = 'sortingalgrithms'
+    baseName = 'sortingalgorithms'
     version = '0.1.0'
 }

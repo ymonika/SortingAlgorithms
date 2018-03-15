@@ -1,3 +1,5 @@
 rootProject.name='sortingalgrithms'
 
-include 'insertionsort'
+include 'InsertionSort'
+include 'BubbleSort'
+include 'SelectionSort'
